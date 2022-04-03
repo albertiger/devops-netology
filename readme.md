@@ -1,5 +1,6 @@
 123lkd
 
 second stage
-puppy
-5 line
+5  line
+
+File gitignore will be ignored
