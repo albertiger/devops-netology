@@ -1,1 +1,2 @@
-# devops-netology
+# devops-netolody
+added gitignore
