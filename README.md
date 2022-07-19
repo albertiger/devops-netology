@@ -1,4 +1,6 @@
-# devops-netolody
-added gitignore
+123lkd
 
-добавиль запись в файл .gitignore and terraform/.gitignore о том что нужно игнорировать католог .terraform и файлы с именем crash.log
+second stage
+5  line
+
+File gitignore will be ignored
